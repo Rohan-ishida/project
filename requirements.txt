@@ -1,0 +1,4 @@
+streamlit
+joblib
+numpy
+import google.generativeai as genai
