@@ -1,3 +1,4 @@
+#AIzaSyC0mmO4MuqXmb9s1a_a4Q7kUBfXxLN6MeE
 import streamlit as st
 import google.generativeai as genai
 import os
